@@ -5,14 +5,14 @@ Hifiberry Machine is a [Raspberry Pi 4](https://static.raspberrypi.org/files/pro
 
 ![the device!](https://raw.githubusercontent.com/gitgc/deskfi/master/images/deskfi.jpg)
  
-Display Machine is also Pi 4, with official [touch screen](https://www.raspberrypi.org/documentation/hardware/display/) connected for controlling hifiberryOS/DSP via it's web UI. 
+Display Machine is also Pi 4, with official [touch screen](https://www.raspberrypi.org/documentation/hardware/display/) connected for controlling hifiberryOS/DSP via it's web UI. All Raspian OS interface elements stripped, auto boots to HifiBerry web UI.
 
 ![the other device!](https://raw.githubusercontent.com/gitgc/deskfi/master/images/deskfi-display.jpg)
 
 Relying on mDNS to find devices for now.
 
 * http://deskfi.local - DSP
-* http://deskfi-display.local - Pi 4 with touchscreen locked in Chrome Kiosk mode to control `deskfi.local`.
+* http://deskfi-display.local - Pi 4 with touchscreen locked in Chrome 'Kiosk Mode' to control `deskfi.local`.
  
 
 ## Folders
